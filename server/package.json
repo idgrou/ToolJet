@@ -46,7 +46,7 @@
     "@figma/nodegit": "^0.28.0-figma.4",
     "@nestjs/bull": "^10.1.1",
     "@nestjs/common": "^10.3.9",
-    "@nestjs/config": "^3.2.2",
+    "@nestjs/config": "^4.0.3",
     "@nestjs/core": "^10.3.9",
     "@nestjs/event-emitter": "^2.0.2",
     "@nestjs/jwt": "^10.2.0",
